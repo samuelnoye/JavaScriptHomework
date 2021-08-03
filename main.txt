@@ -1,0 +1,13 @@
+$ git clone maryrose-hw sami-hw 
+Cloning into 'sami-hw'...
+done.
+$ cd sami-hw
+$ git branch mary-br
+$ git checkout mary-br
+Switched to branch 'mary-br'
+
+$ git add homework.js
+$ git commit -m "initial commit"
+[mary-br c9505a3] initial commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+$ cd ../maryrose-hw
